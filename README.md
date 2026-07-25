@@ -47,6 +47,8 @@ Recent talks, presented at ReactNYC, Boston React Native, OrlandoJS, and ReactAT
 
 **[Substack](https://euzharkov.substack.com/)**: deep dives, experiments, and engineering insights
 
+**[Threads](https://www.threads.com/@euzharkov)**: short-form insights and ongoing thoughts
+
 ## Contact
 
 Reach out via [Threads](https://www.threads.com/@euzharkov) or [Substack](https://euzharkov.substack.com/).
