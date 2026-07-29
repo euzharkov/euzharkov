@@ -10,6 +10,7 @@ I focus on how systems behave in practice, not how they’re supposed to work in
 
 - Build cross-platform architectures (React Native + Web) that reduce duplication and scale with small teams  
 - Design and implement developer tooling that improves velocity without adding complexity  
+- Build custom AI skills for engineering workflows, like [mobile-mockups-skill](https://github.com/euzharkov/mobile-mockups-skill) for generating mobile app mockups  
 - Lead engineering efforts from 0 → production → scale  
 - Bridge product, design, and engineering systems into a cohesive workflow  
 
