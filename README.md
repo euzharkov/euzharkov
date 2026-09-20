@@ -1,55 +1,36 @@
 # Eugene Zharkov
 
-Staff / Principal Software Engineer with 15+ years building production systems, from early-stage products to platforms used by 1M+ users.
+Staff-level software engineer, 15+ years shipping production systems, from founding-engineer seats to platforms with over 1M users. Today I build AI systems for real products: the retrieval, agents, evaluation and interfaces around the model, and I put them into production.
 
-My background is in React Native, Expo, and cross-platform architecture. Recently, I’ve been shifting focus toward AI-driven engineering workflows, exploring how agents and real-world usage patterns change how software is built.
+I run [Line 19](https://line-19.com), an AI engineering studio that works forward-deployed inside client teams, and I make [Breaking Agents](https://breakingagents.com), short videos on how engineers actually use AI to build software.
 
-I focus on how systems behave in practice, not how they’re supposed to work in theory.
+## What I work on
 
-## What I do
+- **AI systems in production.** Company knowledge with permission-filtered retrieval, a healthtech product where the model never sees raw health data, infrastructure agents with approval gates. The architectures and the decisions behind them are on [line-19.com](https://line-19.com/#systems).
+- **Agent-driven development.** Automated development pipelines on local models, code review agents, MCP servers, and custom skills for coding agents.
+- **Cross-platform product engineering.** React Native, Expo and web from one codebase, the background I bring to every AI feature that has to ship inside an app.
 
-- Build cross-platform architectures (React Native + Web) that reduce duplication and scale with small teams  
-- Design and implement developer tooling that improves velocity without adding complexity  
-- Build custom AI skills for engineering workflows, like [mobile-mockups-skill](https://github.com/euzharkov/mobile-mockups-skill) for generating mobile app mockups  
-- Lead engineering efforts from 0 → production → scale  
-- Bridge product, design, and engineering systems into a cohesive workflow  
+## Public work
 
-
-## Impact
-
-📱 Led development of platforms used by 1M+ users  
-💰 Built systems contributing to $80M+ ARR  
-🚀 Founding engineer in a few startups (0 → product → initial traction)  
-🧩 Unified fragmented mobile/web codebases, reducing team size and maintenance overhead  
-🏆 Microsoft MVP (multiple years) for technical contributions and community impact  
-🎤 Speaker at international conferences  
-
-## Current focus
-
-I’m researching and exploring AI capabilities in daily development, and how agents and AI tooling change real engineering work:
-
-- [Building agent-driven systems based on real session data](https://euzharkov.substack.com/p/my-prompt-history-is-architecture?r=82kb6z) (not synthetic benchmarks)  
-- [Building custom skills for AI-assisted workflows](https://euzharkov.substack.com/p/i-built-a-mobile-app-mockup-skill?r=82kb6z)  
-- Identifying repeatable patterns in how engineers interact with AI tools  
-- Writing detailed breakdowns of these experiments and findings  
-
-## Projects
-
-- [mobile-mockups-skill](https://github.com/euzharkov/mobile-mockups-skill): a custom Claude skill for generating mobile app mockups
-
-## Talks
-
-Recent talks, presented at ReactNYC, Boston React Native, OrlandoJS, and ReactATX:
-
-- [Tamagui: Bridging Web and Mobile Development](https://www.slideshare.net/slideshow/tamagui-bridging-web-and-mobile-development/283960095)
-- [Supercharge Your Monorepo: Using Nx to Share React and React Native Code](https://www.slideshare.net/slideshow/supercharge-your-monorepo-using-nx-to-share-react-and-react-native-code/283960135)
+- [Cache Goblin](https://cachegoblin.line-19.com), a developer cache cleaner for macOS, built and shipped by Line 19.
+- [mobile-mockups-skill](https://github.com/euzharkov/mobile-mockups-skill), a Claude skill that generates mobile app mockups.
+- [Breaking Agents on YouTube](https://www.youtube.com/channel/UCypc6ozOitsvpnUSGqr6k-w), one engineering lesson per short, built in real products and stress-tested until they crack.
 
 ## Writing
 
-**[Substack](https://euzharkov.substack.com/)**: deep dives, experiments, and engineering insights
+- [My prompt history is architecture](https://euzharkov.substack.com/p/my-prompt-history-is-architecture): building agent systems from real session data, not synthetic benchmarks.
+- [I built a mobile app mockup skill](https://euzharkov.substack.com/p/i-built-a-mobile-app-mockup-skill): what a reusable skill for an AI coding agent looks like in practice.
+- Long-form posts continue at [breakingagents.substack.com](https://breakingagents.substack.com).
 
-**[Threads](https://www.threads.com/@euzharkov)**: short-form insights and ongoing thoughts
+## Background
+
+- Led development of platforms used by over 1M users; built systems behind $80M+ ARR.
+- Founding engineer in several startups, from zero to product to first traction.
+- Unified fragmented mobile and web codebases, cutting team size and maintenance overhead.
+- Microsoft MVP, multiple years. Speaker at ReactNYC, Boston React Native, OrlandoJS and ReactATX.
+
+Talks: [Tamagui: bridging web and mobile development](https://www.slideshare.net/slideshow/tamagui-bridging-web-and-mobile-development/283960095) · [Supercharge your monorepo: Nx for shared React and React Native code](https://www.slideshare.net/slideshow/supercharge-your-monorepo-using-nx-to-share-react-and-react-native-code/283960135)
 
 ## Contact
 
-Reach out via [Threads](https://www.threads.com/@euzharkov) or [Substack](https://euzharkov.substack.com/).
+Studio work: [line-19.com](https://line-19.com). Everything else: [Threads](https://www.threads.com/@euzharkov) or [LinkedIn](https://www.linkedin.com/in/euzharkov/).
