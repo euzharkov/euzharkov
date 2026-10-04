@@ -13,6 +13,7 @@ I run [Line 19](https://line-19.com), an AI engineering studio that works forwar
 ## Public work
 
 - [Cache Goblin](https://cachegoblin.line-19.com), a developer cache cleaner for macOS, built and shipped by Line 19.
+- [rhow](https://runhow.line-19.com), a tiny offline Rust CLI that discovers how any project is meant to be run, across 13+ ecosystems.
 - [mobile-mockups-skill](https://github.com/euzharkov/mobile-mockups-skill), a Claude skill that generates mobile app mockups.
 - [Breaking Agents on YouTube](https://www.youtube.com/channel/UCypc6ozOitsvpnUSGqr6k-w), one engineering lesson per short, built in real products and stress-tested until they crack.
 
